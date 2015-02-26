@@ -10,7 +10,7 @@ from distutils.core import setup
 setup(
     name = 'testa',
     description = 'Module for testing fedwatch',
-    version = '0.5',
+    version = '0.6',
     license = 'LGPLv2+',
     py_modules = ['testa'],
     entry_points={
